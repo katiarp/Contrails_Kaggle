@@ -12,9 +12,9 @@ Welcome to the Identify Contrails - Reduce Global Warming project! This reposito
 
 To get started with this project, you'll find all the essential resources in this repository. Here's a brief guide:
 
-1. **Project Goals:** Review the project's goals and objectives outlined in the project documentation.
+1. **Project Goals:** The project objective is to develop a machine learning model that can effectivly identrify contrails in images, contribute to the broader goal of reducing global worming through better cotrails detection..
 
-2. **Dataset:** If applicable, you can find information about the dataset used in this project and how to obtain it.
+2. **Dataset:** You can find information about the dataset used in this project and how to obtain it.
 
 3. **Code and Notebooks:** Explore the code and Jupyter notebooks in the `notebooks/` directory to see our data analysis and model development processes.
 
