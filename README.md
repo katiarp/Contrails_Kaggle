@@ -1,6 +1,6 @@
 # Identify Contrails - Reduce Global Warming Project
 
-![Contrail Image](https://www.kaggleusercontent.com/kf/34113026/origin.png)
+![Contrail Image](https://storage.googleapis.com/kaggle-media/competitions/Google-Contrails/waterdroplets.png)
 
 Welcome to the Identify Contrails - Reduce Global Warming project! This repository, hosted by [katiarp](https://github.com/katiarp), contains all the necessary information, code, and resources for our project aimed at identifying contrails from satellite images to help reduce their impact on global warming.
 
